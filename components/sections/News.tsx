@@ -50,12 +50,6 @@ const newsImages = [
     title: "Realita Pahit: Sudah Dimaafkan, Tapi Tidak Bisa Dilupakan.", 
     source: "Beautynesia",
     url: "https://www.beautynesia.id/life/sudah-dimaafkan-tapi-tidak-bisa-dilupakan-ini-5-realita-pahit-tentang-perselingkuhan/b-313052" 
-  },
-  { 
-    id: 8, 
-    title: "Luka Batin Atalia Praratya Jauh Lebih Perih dari yang Terlihat di Kamera.", 
-    source: "TVOne News",
-    url: "https://www.tvonenews.com/lifestyle/trend/398434-psikolog-ungkap-dampak-isu-perselingkuhan-ridwan-kamil-bagi-atalia-praratya-luka-batin" 
   }
 ];
 
@@ -127,7 +121,7 @@ useGSAP(() => {
         >
           <div className="space-y-4">
             <span className="text-[#bf953f] font-modern tracking-[0.4em] text-xs uppercase block">
-              The Harsh Reality
+              Realitas Yang Diam
             </span>
             <h2 className="font-classic text-4xl md:text-7xl text-[#fcf6ba] italic leading-tight">
               Data yang <br /> 

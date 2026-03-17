@@ -82,7 +82,7 @@ export default function Speaker() {
               Umi Oka Elhijra
             </h2>
             <p className="font-modern text-stone-300 text-lg mb-8 italic opacity-90">
-              (Hj. Siti Aisyah Qomariah, S.Pd., CH., CHt.)
+              (Hj. Siti Aisyah Qomariah, S.Pd., CH., CHt. CEFT.)
             </p>
 
             <div className="gold-line !my-6 opacity-50" />
